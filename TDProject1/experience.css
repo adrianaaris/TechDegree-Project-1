@@ -1,0 +1,17 @@
+body {
+font-family: "times";
+}
+
+.main-image {
+border: solid 5px black;
+border-radius: 75%;
+
+}
+h1 {
+  background-color: #777799;
+  padding: 5px;
+}
+
+.section-title {
+  text-transform: uppercase;
+}
